@@ -1,0 +1,17 @@
+.wlc{
+  background: rgb(240, 240, 250);
+  text-align: center;
+  padding-bottom: 7%;
+  padding-top: 7%;
+
+}
+.wlc h1{
+  font-size: 38px;
+ 
+}
+.wlc h2 {
+  font-size: 20px;
+}
+.container{
+  width:90;
+}
